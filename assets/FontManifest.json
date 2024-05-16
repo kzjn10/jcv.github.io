@@ -4,14 +4,6 @@
         "fonts": [
             {
                 "asset": "MaterialIcons-Regular.ttf"
-            },
-            {
-                "asset": "fonts/MaterialIcons-Regular.ttf",
-                "style": "regular"
-            },
-            {
-                "asset": "fonts/MaterialIcons-Regular.otf",
-                "style": "regular"
             }
         ]
     },
